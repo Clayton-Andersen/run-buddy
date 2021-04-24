@@ -1,0 +1,14 @@
+.hero {
+    background-position: bottom;
+    height: auto;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.page-title {
+    color: #fce138;
+}
+
+.page-title h2 {
+    display: inline-block
+}
