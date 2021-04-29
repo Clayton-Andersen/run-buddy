@@ -7,4 +7,4 @@ A website that offers fitness training services.
 ## Website
 https://lernantino.github.io/run-buddy/
 ## Contribution
-Made with (love) by Clayton Andersen
+Made with ❤️ by Clayton Andersen
